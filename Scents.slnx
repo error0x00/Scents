@@ -2,8 +2,8 @@
   <Project Path="Assembly-CSharp-firstpass.csproj" />
   <Project Path="MoreMountains.Tools.csproj" />
   <Project Path="Febucci.TextAnimatorForUnity.Runtime.csproj" />
-  <Project Path="DTT.RuntimeUtilities.Runtime.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="DTT.RuntimeUtilities.Runtime.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="VHierarchy.csproj" />
   <Project Path="Assembly-CSharp-Editor-firstpass.csproj" />
@@ -24,8 +24,8 @@
   <Project Path="DTT.EditorUtilities.Editor.csproj" />
   <Project Path="ChocDino.UIFX.Editor.csproj" />
   <Project Path="Lofelt.NiceVibrations.Editor.csproj" />
-  <Project Path="Febucci.TextAnimatorForUnity.UITk.Runtime.csproj" />
   <Project Path="DTT.EditorUtilities.Demo.csproj" />
+  <Project Path="Febucci.TextAnimatorForUnity.UITk.Runtime.csproj" />
   <Project Path="ChocDino.UIFX.TMP.csproj" />
   <Project Path="QFSW.QC.Serializers.csproj" />
   <Project Path="Wingman.csproj" />

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfdc8cbca7585c4db00190f23b7708b, type: 3}
+  m_Name: mat_sandalwood
+  m_EditorClassIdentifier: Assembly-CSharp::MatData
+  id: mat_sandalwood
+  matName:
+    tableReference: 
+    entryKey: 
+  displayName: "\uC0CC\uB2EC\uC6B0\uB4DC"
+  note: 2
+  family: 2
+  materialType: 1
+  stock: 0
